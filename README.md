@@ -1,6 +1,6 @@
 ### Hi there!👋
 <img src="./tinyfly.png" align="right"
-     alt="Wrench monster" width="295" height="135">
+     alt="Wrench monster" width="255" height="125">
 
 I guess this is where I talk about my self? My work experience prior to my transition to tech included but wasn't limited to: retail, administrative assistant, & home renovation.
 
