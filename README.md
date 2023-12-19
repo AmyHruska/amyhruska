@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there!👋
+- I guess this is where I talk about my self? My work experience prior to my transition to tech included but wasn't limited to: retail, administrative assistant, & home renovation.
 
 <!--
 **AmyHruska/amyhruska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
