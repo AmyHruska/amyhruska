@@ -1,4 +1,5 @@
 ### Hi there!👋
+
 I guess this is where I talk about my self? My work experience prior to my transition to tech included but wasn't limited to: retail, administrative assistant, & home renovation.
 
 Current hobbies:
@@ -19,4 +20,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<img src="" align="right"
+     alt="Wrench monster" width="150" height="150">
+     
 -->
