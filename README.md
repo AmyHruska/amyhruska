@@ -2,11 +2,14 @@
 <img src="./tinyfly.png" align="right"
      alt="Wrench monster" width="255" height="125">
 
-I guess this is where I talk about my self? My work experience prior to my transition to tech included but wasn't limited to: retail, administrative assistant, & home renovation.
+I guess this is where I talk about my self? My name is Amy (she/her), and my work experience prior to my transition to tech included but wasn't limited to: retail, administrative assistant, & home renovation.
 
 Current hobbies:
-- Artistic welding
+- Artistic welding (pictured)
 - Computer gaming (Factorio, & RPGs mostly)
+
+
+
 
 
 <!--
